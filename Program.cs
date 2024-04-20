@@ -14,6 +14,7 @@ namespace PractISRPO
             Console.WriteLine("Сумма чисел равна " +(x + y));
             Console.WriteLine("Произведение чисел равно " +(x * y));
             Console.WriteLine("Частное чисел равно "+(x/y));
+            Console.WriteLine("Сумма квадратов чисел равна "+((x*x)+(y*y)));
         }
     }
 }
