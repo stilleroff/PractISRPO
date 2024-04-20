@@ -12,6 +12,7 @@ namespace PractISRPO
             Console.WriteLine("Введите второе число");
             y = int.Parse(Console.ReadLine());
             Console.WriteLine("Сумма числе лавна" + (x + y));
+            Console.WriteLine("Произведение числен равно " + (x * y));
         }
     }
 }
